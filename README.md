@@ -2,4 +2,6 @@
 
 Hier soll eine Übersetzung der Materialien von https://informatik-bw.de in Jupyter-Notebooks entstehen.
 
+HelferInnen sind willkommen!
+
  
