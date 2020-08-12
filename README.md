@@ -9,6 +9,6 @@ Die Notebooks sind für **nbgrader** vorbereitet. Dies ist eine Zusatzsoftware f
 
 <https://nbgrader.readthedocs.io/en/stable/>
 
-Deshalb enthalten die Dateien bereits die **Lösungen**. Diese werden beim Austeilen an die SchülerInnen über nbgrader entfernt.
+Deshalb enthalten die Dateien bereits die **Lösungen**. Diese werden beim Austeilen an die SchülerInnen über nbgrader automatisch entfernt.
 
  
